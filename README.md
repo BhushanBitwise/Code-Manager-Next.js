@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Code Manager Application
 
-## Getting Started
+# Overview
+The Code Manager Application is a powerful mini project built with Next.js and SQLite, utilizing key concepts like file-based routing, page layouts, App Router, relative and absolute paths, Link components, CSR and SSR handling, client and server directives, server actions, dynamic route slugs, useActionState, error handling, caching strategies, and generateStaticParams.
 
-First, run the development server:
+## Core Advance Concepts Implemented
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **File-based Routing**:Seamless navigation through the Next.js file system.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Page Layouts**: Reusable and consistent UI across pages.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **App Router**: Advanced routing capabilities.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Relative and Absolute Paths**: Flexible path handling.Shery.js.
 
-## Learn More
+- **CSR & SSR Understanding**: Optimized rendering strategies
 
-To learn more about Next.js, take a look at the following resources:
+- **Client and Server Directives**:  Clear separation of client and server components.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Server Actions & useActionState**: Handling server-side logic and managing state.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Dynamic Route Slugs**:  Flexible dynamic routing for code management.
 
-## Deploy on Vercel
+- **Error Handling**:  Graceful error management.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Caching Mechanism**:  Utilizing Next.js powerful caching strategies.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **generateStaticParams:**: Generating static parameters for dynamic routes..
+
+- **SQLite Database Integration**: Efficient data storage and management.
+
+
+## Screenshots
+
+![Code Manager Application](/n2-mini-project/public/p1.png)
+
+![Code Manager Application](/n2-mini-project/public/p2.png)
+
+![Code Manager Application](/n2-mini-project/public/p3.png)
+
+![Code Manager Application](/n2-mini-project/public/p4.png)
+
+![Code Manager Application](/n2-mini-project/public/p5.png)
+
+![Code Manager Application](/n2-mini-project/public/p6.png)
+
+
+
+## Live Website
+
+Explore Refokus-Clone live: [Refokus-Clone Live](https://refokus-website-clone-mocha.vercel.app/)
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
