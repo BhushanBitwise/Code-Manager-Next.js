@@ -43,8 +43,6 @@ The Code Manager Application is a powerful mini project built with Next.js and S
 
 ![Code Manager Application](./public/p6.png)
 
-![Code Manager Application](./public/p7.png)
 
-..
 
 
