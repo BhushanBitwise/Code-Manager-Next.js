@@ -46,12 +46,3 @@ The Code Manager Application is a powerful mini project built with Next.js and S
 ![Code Manager Application](./public/p7.png)
 
 
-## Live Website
-
-Explore Refokus-Clone live: [Refokus-Clone Live](https://refokus-website-clone-mocha.vercel.app/)
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
