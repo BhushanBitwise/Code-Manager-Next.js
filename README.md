@@ -31,17 +31,17 @@ The Code Manager Application is a powerful mini project built with Next.js and S
 
 
 ## Screenshots
-![Code Manager Application](/n2-mini-project/img/p1.png)
+![Code Manager Application](./img/p1.png)
 
-![Code Manager Application](/n2-mini-project/img/p2.png)
+![Code Manager Application](./img/p2.png)
 
-![Code Manager Application](/n2-mini-project/img/p3.png)
+![Code Manager Application](./img/p3.png)
 
-![Code Manager Application](/n2-mini-project/img/p4.png)
+![Code Manager Application](./img/p4.png)
 
-![Code Manager Application](/n2-mini-project/img/p5.png)
+![Code Manager Application](./img/p5.png)
 
-![Code Manager Application](/n2-mini-project/img/p6.png)
+![Code Manager Application](./img/p6.png)
 
 
 
