@@ -29,7 +29,7 @@ The Code Manager Application is a powerful mini project built with Next.js and S
 
 - **SQLite Database Integration**: Efficient data storage and management.
 
-
+<!-- 
 ## Screenshots
 ![Code Manager Application](./img/p1.png)
 
@@ -45,4 +45,4 @@ The Code Manager Application is a powerful mini project built with Next.js and S
 
 
 
-
+ -->
